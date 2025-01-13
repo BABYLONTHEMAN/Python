@@ -8,7 +8,7 @@ def bnwsa(rectangles):
         #but sum(1 for a,b in rectangles if ...) # zhmara 3 anwse, chonka la if'aka tanha 3 dana yaksana 
     bzhmera = sum(1 for a , b in rectangles if min(a,b) ==zor) #sum(1 for a,b in rectangles) zhmaray indexakan abzhera #4
     return bzhmera
-
+#calling function
 eshka = bnwsa(rectangles)
 print(eshka)
 
