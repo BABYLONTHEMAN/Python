@@ -24,3 +24,4 @@ Small Python lessons, one file at a time.
 18. `18_save_load_json_inventory.py` - save/load inventory with JSON
 19. `19_class_player_monster.py` - class/object using player vs monster
 20. `20_simple_text_command_bot.py` - tiny command system like robot collect/status
+21. `21_loop_inside_loop.py` - while loop with for loop inside
